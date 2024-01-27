@@ -17,3 +17,16 @@ Description...
 |------------training
 |------------testing
 ```
+
+
+## Dataset preparation
+1. Create [data] folder inside FastAno_official 
+2. Download UCSD Ped2 dataset from this [website](http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm) and place it in [data] folder.
+3. The folder structure should look like this:  
+   | Code_official  
+   |---data  
+   |-------ped2  
+   |----------testing  
+   |----------training  
+   |----------ped2.mat  
+   |---weights
