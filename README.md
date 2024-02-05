@@ -1,5 +1,6 @@
 # ADViTUNet
-Description...
+
+The full source code will be publicly available after publishing
 
 
 
