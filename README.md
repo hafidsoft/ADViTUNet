@@ -1,7 +1,5 @@
 # ADViTUNet
 
-The full source code will be publicly available after publishing
-
 
 
 ## Dataset preparation
